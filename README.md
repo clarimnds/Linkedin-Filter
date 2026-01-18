@@ -1,7 +1,7 @@
 # LinkedIn Job Cleaner
 
 Uma extensão simples de navegador que remove visualmente e limpa do código as vagas "Promovido", "Promoted" e "Patrocinado" das buscas do LinkedIn, deixando apenas as vagas que realmente interessam.
-
+Futuramente: Exclusão de palavras-chave da busca.
 ## Como baixar
 
 1. Clique no botão verde **Code** aqui no GitHub.
